@@ -51,7 +51,7 @@ RMSE and MAE, SVD++ was chosen as the best recommendation algorithm on the Amazo
 <center>
   
 |                ALGORITHM               ||       RMSE      |     MAE    |
-| -----------------: | -----------------: | --------------: | ---------: |
+| :----------------: | :----------------: | :-------------: | :--------: |
 |      Memory-based  |         KNN        |        1.012    |    0.656   |
 |      ^             |   KNN with Means   |        1.037    |    0.638   |
 | ^                  |  KNN with Z-Score  |        1.037    |    0.641   |
