@@ -58,5 +58,5 @@ RMSE and MAE, SVD++ was chosen as the best recommendation algorithm on the Amazo
 | ^                  |         NMF        |        1.139    |    0.861   |
 
 <center>
-<img src="./img/result.png" width="400" >
+<img src="./img/result.png" width="600" >
 </center>
