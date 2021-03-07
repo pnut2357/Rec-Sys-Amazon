@@ -50,7 +50,7 @@ RMSE and MAE, SVD++ was chosen as the best recommendation algorithm on the Amazo
 
 
 <p align="center">
-<img src="./img/table.png" width="300" height="350">
+<img src="./img/table.png" width="300" >
 </p>
 
 <p align="center">
