@@ -58,7 +58,6 @@ RMSE and MAE, SVD++ was chosen as the best recommendation algorithm on the Amazo
 |      Model-based   |         SVD        |        0.936    |    0.652   |
 | ^                  |         SVD++      |        0.936    |    0.633   |
 | ^                  |         NMF        |        1.139    |    0.861   |
-
 </p>
 
 <p align="center">
