@@ -41,9 +41,9 @@ where
 
 ## 3. Recommender System
 A recommender system is a technique to suggest the relevant items to users, based on their preference. There are 3 types; 1) content-based filtering, 2) collaborative filtering, 3) hybrid systems. 
-<center>
+<p align="center">
 <img src="./img/cf_type.png" width="300" height="350">
-</center>
+</p>
 
 This project focus on collaborative filtering by using package Surprise. More evaluation metrics are added by creating a class on the top of Surprise. Detail evaluation metrics can be seen in [capstone2_recsys_ver2.ipynb](https://github.com/pnut2357/Rec-Sys-Amazon/blob/main/capstone2_recsys_ver2.ipynb). Based on 
 RMSE and MAE, SVD++ was chosen as the best recommendation algorithm on the Amazon game data. 
@@ -57,6 +57,6 @@ RMSE and MAE, SVD++ was chosen as the best recommendation algorithm on the Amazo
 | ^                  |         SVD++      |        0.936    |    0.633   |
 | ^                  |         NMF        |        1.139    |    0.861   |
 
-<center>
+<p align="center">
 <img src="./img/result.png" width="600" >
-</center>
+</p>
