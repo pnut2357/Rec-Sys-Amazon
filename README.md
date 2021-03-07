@@ -48,17 +48,10 @@ A recommender system is a technique to suggest the relevant items to users, base
 This project focus on collaborative filtering by using package Surprise. More evaluation metrics are added by creating a class on the top of Surprise. Detail evaluation metrics can be seen in [capstone2_recsys_ver2.ipynb](https://github.com/pnut2357/Rec-Sys-Amazon/blob/main/capstone2_recsys_ver2.ipynb). Based on 
 RMSE and MAE, SVD++ was chosen as the best recommendation algorithm on the Amazon game data. 
 
-<center>
-  
-|                ALGORITHM               ||       RMSE      |     MAE    |
-| :----------------: | :----------------: | :-------------: | :--------: |
-|      Memory-based  |         KNN        |        1.012    |    0.656   |
-|      ^             |   KNN with Means   |        1.037    |    0.638   |
-| ^                  |  KNN with Z-Score  |        1.037    |    0.641   |
-|      Model-based   |         SVD        |        0.936    |    0.652   |
-| ^                  |         SVD++      |        0.936    |    0.633   |
-| ^                  |         NMF        |        1.139    |    0.861   |
-</center>
+
+<p align="center">
+<img src="./img/table.png" width="300" height="350">
+</p>
 
 <p align="center">
 <img src="./img/result.png" width="600" >
