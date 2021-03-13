@@ -45,14 +45,27 @@ A recommender system is a technique to suggest the relevant items to users, base
 <img src="./img/cf_type.png" width="300" height="350">
 </p>
 
-This project focus on collaborative filtering by using package Surprise. More evaluation metrics are added by creating a class on the top of Surprise. Detail evaluation metrics can be seen in [capstone2_recsys_ver2.ipynb](https://github.com/pnut2357/Rec-Sys-Amazon/blob/main/capstone2_recsys_ver2.ipynb). Based on 
-RMSE and MAE, SVD++ was chosen as the best recommendation algorithm on the Amazon game data. 
+This project focus on Collaborative Filtering by using package Surprise and Neural Matrix Factorization. More evaluation metrics are added by creating a class on the top of Surprise. Detail evaluation metrics can be seen in [capstone2_recsys_ver2.ipynb](https://github.com/pnut2357/Rec-Sys-Amazon/blob/main/capstone2_recsys_ver2.ipynb). You can check the [report]
 
 
-<p align="center">
-<img src="./img/table.png" width="300" >
-</p>
 
-<p align="center">
-<img src="./img/result.png" width="600" >
-</p>
+<img src="./img/Wrangling.png" width="400" >
+
+
+<img src="./img/eda1.png" width="600" >
+
+<img src="./img/eda2.png" width="600" >
+
+<img src="./img/models1.png" width="600" >
+
+<img src="./img/models2.png" width="600" >
+
+<img src="./img/eval_.png" width="600" >
+
+<img src="./img/eval__.png" width="600" >
+
+<img src="./img/eval___.png" width="600" >
+
+
+<img src="./img/eda1.png" width="600" >
+<img src="./img/eda1.png" width="600" >
