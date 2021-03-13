@@ -45,12 +45,9 @@ A recommender system is a technique to suggest the relevant items to users, base
 <img src="./img/cf_type.png" width="300" height="350">
 </p>
 
-This project focus on Collaborative Filtering by using package Surprise and Neural Matrix Factorization. More evaluation metrics are added by creating a class on the top of Surprise. Detail evaluation metrics can be seen in [capstone2_recsys_ver2.ipynb](https://github.com/pnut2357/Rec-Sys-Amazon/blob/main/capstone2_recsys_ver2.ipynb). You can check the [report]
+This project focus on Collaborative Filtering by using package Surprise and Neural Matrix Factorization. More evaluation metrics are added by creating a class on the top of Surprise. Detail evaluation metrics can be seen in [capstone2_recsys_ver2.ipynb](https://github.com/pnut2357/Rec-Sys-Amazon/blob/main/capstone2_recsys_ver2.ipynb). You can check the [report](https://github.com/pnut2357/Rec-Sys-Amazon/blob/main/Amazon_Rec_System_SprBrd.pdf)
 
-
-
-<img src="./img/Wrangling.png" width="400" >
-
+<img src="./img/Wrangling.png" width="300" >
 
 <img src="./img/eda1.png" width="600" >
 
@@ -65,7 +62,3 @@ This project focus on Collaborative Filtering by using package Surprise and Neur
 <img src="./img/eval__.png" width="600" >
 
 <img src="./img/eval___.png" width="600" >
-
-
-<img src="./img/eda1.png" width="600" >
-<img src="./img/eda1.png" width="600" >
