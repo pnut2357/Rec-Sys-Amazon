@@ -2,7 +2,7 @@
 <img src="./img/amazon.png" alt="Drawing" style="width: 200px;"/>
 
 ## 1. Business portion of 
-E-commerce, an activity of buying or selling items (products) on online services, has been populated. We cannot deny the fact that Amazon is one of the biggiest E-commerce company. From the millions items in online stores, it is hard to believe which item would be the best for customers. Given information of users and items, recommending the items in personal preference is a way to generate tremendous revenue with increment of user retention and overall user satisfaction. 
+E-commerce, an activity of buying or selling items (products) on online services, has been populated. We cannot deny the fact that Amazon is one of the biggiest E-commerce companies. From the millions items in online stores, it is hard to believe which item would be the best for customers. Given information of users and items, recommending the items in personal preference is a way to generate tremendous revenue with increment of user retention and overall user satisfaction. 
 
 ## 2. Dataset
 <p align="center">
